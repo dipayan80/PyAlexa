@@ -1,4 +1,4 @@
-<h2> test edit again Sample project to demonstrate how to create a lambda function in 
+<h2> resolved conflict Sample project to demonstrate how to create a lambda function in 
 Python that can be used in an Alexa Skill.</h2>
 
 This project is not meant to be a tutorial on Alexa development.  For that
