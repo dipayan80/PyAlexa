@@ -1,2 +1,4 @@
 testline 1 from local
+line 2 from git
 Line2 from local
+
