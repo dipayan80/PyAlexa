@@ -1,3 +1,5 @@
 line 1 from local atom
 line 2 from atom
-line 2 from git 
+line 2 from git
+line 3 from local
+line 4 from local
